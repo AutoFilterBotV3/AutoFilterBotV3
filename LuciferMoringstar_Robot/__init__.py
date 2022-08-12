@@ -30,5 +30,5 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [abhishek]
+➥ Creator : [abhishek rinas]
 """
